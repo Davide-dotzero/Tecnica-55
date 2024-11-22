@@ -10,6 +10,6 @@ Designer
 Davide Piscitelli
 
 License
-Licensed under the SIL Open Font License, 1.1; you may not use this file except in compliance with the License.
+Licensed under the [SIL Open Font License, 1.1](https://openfontlicense.org); you may not use this file except in compliance with the License.
 
 To contribute to the project contact Davide Piscitelli > davidepscll@gmail.com
